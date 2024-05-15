@@ -36,7 +36,7 @@ Vanilla Gift Cards undeniably cater to a wide spectrum of tastes and occasions. 
   
  
 
-Understanding the importance of trust in online transactions, [vanilla gift card](https://vanillagift.io/) clearly distinguishes itself from other entities such as [vanillagift.com](https://vanillagift.com/). Emphasizing transparency and integrity, Vanilla Gift ensures that customers understand the nature of its services and the value proposition it offers. This approach fosters a reliable and secure environment for buying and selling gift cards, thereby enhancing customer confidence and satisfaction.
+Understanding the importance of trust in online transactions, [vanilla gift card](https://vanillagift.io/) clearly distinguishes itself from other entities such as [vanillagift.io](https://vanillagift.io/). Emphasizing transparency and integrity, Vanilla Gift ensures that customers understand the nature of its services and the value proposition it offers. This approach fosters a reliable and secure environment for buying and selling gift cards, thereby enhancing customer confidence and satisfaction.
 
   
  
