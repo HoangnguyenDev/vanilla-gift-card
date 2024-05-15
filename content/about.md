@@ -1,16 +1,34 @@
-# [openshift.tips](https://openshift.tips)
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e9d32213-2089-4328-b53e-bb6b15efd960/deploy-status)](https://app.netlify.com/sites/openshifttips/deploys)
+---
+title: "About"
+date: 2017-10-17T15:26:15Z
+lastmod: 2018-12-08T15:26:15Z
+publishdate: 2018-11-23T15:26:15Z
+draft: false
+menu: "main"
+---
 
 This site pretends to compile a list of OpenShift 4 tips, mainly one liners.
 
 # Contact
 
-The main author of this site is [Eduardo Minguez](https://eduardominguez.es) but
+The main author of this site is [Eduardo Minguez](https://www.eduardominguez.es) but
 collaborations are appreciated :)
 
 Feel free to contact me at <hello@openshift.tips> or add a new issue to the
 [repo](https://github.com/openshifttips/web/issues/new)
+
+# Contributors
+
+Check the updated list at <https://github.com/openshifttips/web/graphs/contributors>
+
+- [soukron](https://github.com/openshifttips/web/commits?author=soukron)
+- [palonsoro](https://github.com/openshifttips/web/commits?author=palonsoro)
+- [manuvaldi](https://github.com/openshifttips/web/commits?author=manuvaldi)
+- [josgonza-rh](https://github.com/openshifttips/web/commits?author=josgonza-rh)
+- [aizuddin85](https://github.com/openshifttips/web/commits?author=aizuddin85)
+- [acomabon](https://github.com/openshifttips/web/commits?author=acomabon)
+- [ptrnull](https://github.com/openshifttips/web/commits?author=ptrnull)
+- Others!
 
 # Howto
 
